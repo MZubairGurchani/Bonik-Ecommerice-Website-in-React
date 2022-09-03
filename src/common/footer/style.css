@@ -1,11 +1,30 @@
+.had {
+  
+  left: 0px;
+  right: 0px;
+  top: 19px;
+  bottom: 4066px;
+  
+
+  
+  background: #FFFFFF;
+  box-shadow: 0px 4px 60px rgba(0, 0, 0, 0.04);
+}
+.had i {
+  position: left;
+  margin-right: 10px;
+  bottom: 4066px;
+}
+
 footer {
-  background-color: #0f3460;
+  background-color: 
+  #F6F8FB;
   padding: 100px 0;
-  color: #fff;
+  color: black;
 }
 footer h1 {
   margin-bottom: 30px;
-  color: #e94560;
+  color: #4592FF;
   font-weight: 800;
   font-style: italic;
 }
@@ -31,6 +50,7 @@ footer h2 {
   margin-bottom: 20px;
 }
 footer li {
-  margin-bottom: 10px;
-  opacity: 0.5;
+  left: 0px;
+  margin-bottom: 5px;
+  opacity: 1;
 }

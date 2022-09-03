@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "shopping-cart",
+			"path": "../../../shopping-cart"
+		}
+	],
+	"settings": {}
+}
